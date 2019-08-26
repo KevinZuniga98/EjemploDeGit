@@ -1,0 +1,1 @@
+git statuts ( Me permie ver el estado actual de mi repositorio actual )
