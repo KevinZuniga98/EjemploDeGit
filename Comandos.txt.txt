@@ -1,1 +1,5 @@
 git statuts ( Me permie ver el estado actual de mi repositorio actual )
+git clone
+git add .
+git commit -m ".."
+git push
